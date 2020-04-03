@@ -2,14 +2,12 @@
 
 I was born in Brasil.
 I moved to USA years ago where I have been living since then.
- I am Educational Assistant at High School. 
-
+I am Educational Assistant at High School. 
 I have B.S. in Genetics from University California Davis
 After that I continued towards my Master in Science in Cell and Molecular Biology at San Francisco State 
 University.
-
-I am interested in how “ourselves”  our personality arises from living tissue. 
-Whena group of neurons start to have characteristics of cognition?
+I am interested in how our ”self", our "persona" arises from living tissue. 
+When a group of neurons start to have characteristics of cognition?
 When a neural activity starts to produce coherent activiyt that it is perceived as cognition ?
 When a group of neurons start to "think"?
 Those are questions that I want to reply with my research.
