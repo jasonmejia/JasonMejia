@@ -1,5 +1,16 @@
 ## Introduction
 
+I was born in Brasil.
+I moved to USA years ago where I have been living since then.
+Right now I live in Oregon. I am Educational Assistant at High School. 
+I worked in science research labs in universities.
+I did my undergrad at UC Davis,where I got a B.S. in Genetics.
+After that I continued towards my Master in Science in Cell and Molecular Biology at San Francisco State 
+University.
+I have worked in several research labs.
+I am interested in how “ourselves”  our personality arises from living tissue. I am interested in knowing at what point a group of cells start to have life or properties that caracterize us as life, when cognition or when a choerent neural activity starts.When a group of neurons start to produce activity that it is coherent for the system as whole in creating cognition.Those are questions that I want to reply with my research.
+Jason Mejia
+
 You can use the [editor on GitHub](https://github.com/jasonmejia/JasonMejia/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
