@@ -8,21 +8,15 @@ After that I continued towards my Master in Science in Cell and Molecular Biolog
 University.
 
 
-
-Those are questions that I want to reply with my research.
-Jason Mejia
-
-### My research interests Markdown
+### My research interests
 
 I am interested in how our ”self", our "persona" arises from living tissue. 
 When a group of neurons start to have characteristics of cognition?When a group of neurons start to have characteristics of cognition?
 When a neural activity starts to produce coherent activiyt that it is perceived as cognition ?
 When a group of neurons start to "think"?
-Those are questions that I want to reply with my research. It includes conventions for
+Those are questions that I want to reply with my research. 
 
-You can use the to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
@@ -51,6 +45,10 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jasonmejia/JasonMejia/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+### Contact Information
+
+You can contact me by email or skyp.  My email is the: jasonmejiaoregon@gmail.com. 
 
 ### Support or Contact
 
