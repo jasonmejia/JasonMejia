@@ -42,13 +42,10 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jasonmejia/JasonMejia/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ## Contact Information
 
-You can contact me by email or skyp.  My email is the: jasonmejiaoregon@gmail.com
+You can contact me by email or skype.  My email is the: jasonmejiaoregon@gmail.com
 
 ### Support or Contact
 
