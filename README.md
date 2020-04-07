@@ -6,19 +6,19 @@ I am Educational Assistant at High School.
 I have B.S. in Genetics from University California Davis
 After that I continued towards my Master in Science in Cell and Molecular Biology at San Francisco State 
 University.
-I am interested in how our ”self", our "persona" arises from living tissue. 
-When a group of neurons start to have characteristics of cognition?
-When a neural activity starts to produce coherent activiyt that it is perceived as cognition ?
-When a group of neurons start to "think"?
+
+
+
 Those are questions that I want to reply with my research.
 Jason Mejia
 
-### Markdown
+### My research interests Markdown
 
-Markdown is a When a group of neurons start to have characteristics of cognition?
+I am interested in how our ”self", our "persona" arises from living tissue. 
+When a group of neurons start to have characteristics of cognition?When a group of neurons start to have characteristics of cognition?
 When a neural activity starts to produce coherent activiyt that it is perceived as cognition ?
 When a group of neurons start to "think"?
-Those are questions that I want to reply with my research. Those are questions that I want to reply with my research.lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Those are questions that I want to reply with my research. It includes conventions for
 
 You can use the to maintain and preview the content for your website in Markdown files.
 
