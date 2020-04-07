@@ -7,7 +7,6 @@ I have B.S. in Genetics from University California Davis
 After that I continued towards my Master in Science in Cell and Molecular Biology at San Francisco State 
 University.
 
-
 ## My research interests
 
 I am interested in how our ”self", our "persona" arises from living tissue. 
