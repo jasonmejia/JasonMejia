@@ -8,7 +8,7 @@ After that I continued towards my Master in Science in Cell and Molecular Biolog
 University.
 
 
-### My research interests
+## My research interests
 
 I am interested in how our ”self", our "persona" arises from living tissue. 
 When a group of neurons start to have characteristics of cognition?When a group of neurons start to have characteristics of cognition?
@@ -46,9 +46,9 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jasonmejia/JasonMejia/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Contact Information
+## Contact Information
 
-You can contact me by email or skyp.  My email is the: jasonmejiaoregon@gmail.com. 
+You can contact me by email or skyp.  My email is the: jasonmejiaoregon@gmail.com
 
 ### Support or Contact
 
