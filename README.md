@@ -30,18 +30,18 @@ Syntax highlighted code block
 
 - Bulleted
 - List
-
+![Image](images-github/jason-github-small.jpg)
 1. Numbered
 2. List
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](images-github/jason-github-small.jpg)
+[![Image](images-github/jason-github-small.jpg)](url) and ![Image](images-github/jason-github-small.jpg)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-
+![Image](images-github/jason-github-small.jpg)
 ## Contact Information
 
 You can contact me by email or skype.  My email is the: jasonmejiaoregon@gmail.com
