@@ -15,7 +15,10 @@ Jason Mejia
 
 ### Markdown
 
-Markdown is a Those are questions that I want to reply with my research.lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Markdown is a When a group of neurons start to have characteristics of cognition?
+When a neural activity starts to produce coherent activiyt that it is perceived as cognition ?
+When a group of neurons start to "think"?
+Those are questions that I want to reply with my research. Those are questions that I want to reply with my research.lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 You can use the to maintain and preview the content for your website in Markdown files.
 
