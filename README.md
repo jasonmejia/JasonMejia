@@ -35,7 +35,10 @@ Syntax highlighted code block
 2. List
 
 **Bold** and _Italic_ and `Code` text
+
 ![Image](images-github/jason-github-small.jpg)
+
+
 [![Image](images-github/jason-github-small.jpg)](url) and ![Image](images-github/jason-github-small.jpg)
 ```
 
@@ -44,6 +47,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 ![Image](images-github/jason-github-small.jpg)
 ## Contact Information
 
+<img src="images-github/jason-github-small.jpg" width="200" />
 You can contact me by email or skype.  My email is the: jasonmejiaoregon@gmail.com
 
 ### Support or Contact
