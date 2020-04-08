@@ -2,8 +2,8 @@
 
 I was born in Brasil.
 I moved to USA years ago where I have been living since then.
-I am Educational Assistant at High School. 
-I have B.S. in Genetics from University California Davis
+I am Spanish Science Instructor at High School. 
+I have Bachelor of Science in Genetics from University California Davis
 After that I continued towards my Master in Science in Cell and Molecular Biology at San Francisco State 
 University.
 
@@ -48,7 +48,8 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 ## Contact Information
 
 <img src="images-github/jason-github-small.jpg" width="200" />
-You can contact me by email or skype.  My email is the: jasonmejiaoregon@gmail.com
+
+You can contact me by email: jasonmejiaoregon@gmail.com or skype.
 
 ### Support or Contact
 
