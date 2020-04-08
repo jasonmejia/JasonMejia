@@ -30,21 +30,21 @@ Syntax highlighted code block
 
 - Bulleted
 - List
-![Image](images-github/jason-github-small.jpg)
+
 1. Numbered
 2. List
 
 **Bold** and _Italic_ and `Code` text
 
-![Image](images-github/jason-github-small.jpg)
 
 
-[![Image](images-github/jason-github-small.jpg)](url) and ![Image](images-github/jason-github-small.jpg)
+
+
 ```
-
+<img src="images-github/jason-github-small.jpg" width="200" />
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-![Image](images-github/jason-github-small.jpg)
+<img src="images-github/jason-github-small.jpg" width="200" /> <img src="images-github/jason-github-small.jpg" width="200" /> <img src="images-github/jason-github-small.jpg" width="200" />
 ## Contact Information
 
 <img src="images-github/jason-github-small.jpg" width="200" />
