@@ -43,15 +43,16 @@ Syntax highlighted code block
 <img src="images-github/jason-github-small.jpg" width="200" />
 
 ```
-
+### Images
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 <img src="images-github/jason-github-small.jpg" width="200" /> <img src="images-github/jason-github-small.jpg" width="200" /> <img src="images-github/jason-github-small.jpg" width="200" />
-## Contact Information
+
+### Contact Information
 
 <img src="images-github/jason-github-small.jpg" width="200" />
 
-You can contact me by email: jasonmejiaoregon@gmail.com or skype.
+You can contact me by email: [jasonmejiaoregon@gmail.com] or skype.
 
 ### Support or Contact
 
