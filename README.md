@@ -44,7 +44,7 @@ Syntax highlighted code block
 
 ```
 ## Images
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+See some of my images from my projects
 
 <img src="images-github/jason-github-small.jpg" width="200" /> <img src="images-github/jason-github-small.jpg" width="200" /> <img src="images-github/jason-github-small.jpg" width="200" />
 
