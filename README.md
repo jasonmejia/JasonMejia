@@ -52,7 +52,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 <img src="images-github/jason-github-small.jpg" width="200" />
 
-You can contact me by email: [jasonmejiaoregon@gmail.com] or skype.
+You can contact me by email: [jasonmejiaoregon@gmail.com](jasonmejiaoregon@gmail.com) or skype.
 
 ### Support or Contact
 
