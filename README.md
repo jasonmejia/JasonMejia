@@ -40,8 +40,10 @@ Syntax highlighted code block
 
 
 
-```
 <img src="images-github/jason-github-small.jpg" width="200" />
+
+```
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 <img src="images-github/jason-github-small.jpg" width="200" /> <img src="images-github/jason-github-small.jpg" width="200" /> <img src="images-github/jason-github-small.jpg" width="200" />
