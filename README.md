@@ -17,7 +17,7 @@ Those are questions that I want to reply with my research.
 
 
 
-### Markdown
+## Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -43,7 +43,7 @@ Syntax highlighted code block
 <img src="images-github/jason-github-small.jpg" width="200" />
 
 ```
-### Images
+## Images
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 <img src="images-github/jason-github-small.jpg" width="200" /> <img src="images-github/jason-github-small.jpg" width="200" /> <img src="images-github/jason-github-small.jpg" width="200" />
@@ -56,4 +56,4 @@ You can contact me by email: [jasonmejiaoregon@gmail.com] or skype.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages? 
