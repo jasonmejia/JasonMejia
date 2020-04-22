@@ -35,7 +35,24 @@ for
 2. List
 
 **Bold** and _Italic_ and `Code` text
+## Markdown
 
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+for
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
 
 ## Images
 See some of my images from my projects.
