@@ -36,10 +36,7 @@ for
 
 **Bold** and _Italic_ and `Code` text
 
-```markdown
 
-
-```
 ## Images
 See some of my images from my projects.
 Those images bellow are pictures of my samples.
