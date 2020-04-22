@@ -63,7 +63,9 @@ See some of my images from my projects.
 Those images bellow are pictures of my samples.
 
 <figure>
-<img src="images-github/jason-github-small.jpg" width="200" /> <img src="images-github/jason-github-small.jpg" width="200" /> <img src="images-github/jason-github-small.jpg" width="200" />
+<img src="images-github/jason-github-small.jpg" width="200" /> <figure>
+<img src="images-github/jason-github-small.jpg" width="200" /> 
+<figcaption>Figure2 Jason</figcaption> </figure><img src="images-github/jason-github-small.jpg" width="200" /> <img src="images-github/jason-github-small.jpg" width="200" />
 <figcaption>Figure1 Jason</figcaption> </figure>
 
 <figure>
