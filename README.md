@@ -17,13 +17,16 @@ Those are questions that I want to reply with my research.
 
 
 
-## Markdown
+## Teaching
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions
-- Bulleted
-- List
+### Online Teaching
 
-1. Numbered
+I am teaching an online science for students. I have google classroom where I teach students science. My google classroom is located at : 
+I also have office hours from after class at :
+- Math 
+- Biology
+
+1. Physics
 2. List
 
 **Bold** and _Italic_ and `Code` text
@@ -35,24 +38,7 @@ for
 2. List
 
 **Bold** and _Italic_ and `Code` text
-## Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-for
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
 
 ## Images
 See some of my images from my projects.
