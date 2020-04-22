@@ -1,4 +1,4 @@
-## Introduction
+# Introduction
 
 I was born in Brasil.
 I moved to USA years ago where I have been living since then.
@@ -44,16 +44,27 @@ Syntax highlighted code block
 
 ```
 ## Images
-See some of my images from my projects
+See some of my images from my projects.
+Those images bellow are pictures of my samples.
 
+<figure>
 <img src="images-github/jason-github-small.jpg" width="200" /> <img src="images-github/jason-github-small.jpg" width="200" /> <img src="images-github/jason-github-small.jpg" width="200" />
+<figcaption>Figure1 Jason</figcaption> </figure>
 
 ### Contact Information
 
 <img src="images-github/jason-github-small.jpg" width="200" />
+
 
 You can contact me by email: [jasonmejiaoregon@gmail.com](jasonmejiaoregon@gmail.com) or skype.
 
 ### Support or Contact
 
 Having trouble with Pages? 
+# References
+
+
+1. Jason.
+2. [Jason]
+3. Mejia, Jason.
+4. Mejia, Jason.
