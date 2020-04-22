@@ -54,10 +54,9 @@ Those images bellow are pictures of my samples.
 
 ### Contact Information
 
-
+<figure>
 <img src="images-github/jason-github-small.jpg" width="150" /> 
-<figcaption>Jason Mejia [jasonmejiaoregon@gmail.com](jasonmejiaoregon@gmail.com) or skype.</figcaption> </figure>
-
+<figcaption>Jason Mejia </figcaption> </figure>
 You can contact me by email: [jasonmejiaoregon@gmail.com](jasonmejiaoregon@gmail.com) or skype.
 
 ### Support or Contact
