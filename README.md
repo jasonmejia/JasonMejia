@@ -17,21 +17,16 @@ Those are questions that I want to reply with my research.
 
 I am teaching an online science for students. I have google classroom where I teach students science. My google classroom is located at : 
 I also have office hours from after class at :
-- Math 
-- Biology
-
+- 
 1. Physics
-2. List
+2. Math
+3. Biology
+4. English
 
-**Bold** and _Italic_ and `Code` text
-for
-- Bulleted
-- List
 
-1. Numbered
-2. List
+**Projects** 
+- Artificial Intelligence
 
-**Bold** and _Italic_ and `Code` text
 
 
 ## Images
