@@ -17,10 +17,10 @@ Those are questions that I want to reply with my research.
 I am teaching an online science for students. I have google classroom where I teach students science. My google classroom is located at 
 I also have office hours from after class at :
 
-1. Physics
-2. Math
-3. Biology
-4. English
+- Physics
+- Math
+- Biology
+- English
 
 
 **Projects** 
