@@ -35,13 +35,7 @@ Those images bellow are pictures of my samples.
 <img src="images-github/jason-github-small.jpg" width="200" />
 <figcaption>Figure1 Jason</figcaption> </figure>
 
-<figure>
-<img src="images-github/jason-github-small.jpg" width="200" /> 
-<figcaption>Figure2 Jason</figcaption> </figure>
 
-<figure>
-<img src="images-github/jason-github-small.jpg" width="200" /> 
-<figcaption>Figure3 Jason</figcaption> </figure>
 
 ### Contact Information
 
