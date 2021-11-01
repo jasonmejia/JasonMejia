@@ -30,10 +30,10 @@ I also have office hours from after class at :
 
 ## Images
 See some of my images from my projects.
-Those images bellow are pictures of my samples.
+
 <figure>
 <img src="images-github/jason-github-small.jpg" width="200" />
-<figcaption>Figure1 Jason</figcaption> </figure>
+<figcaption>Jason</figcaption> </figure>
 
 
 
