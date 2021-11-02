@@ -29,7 +29,7 @@ I also have office hours from after class at :
 
 
 ## Images
-See some of my images from my projects.
+
 
 <figure>
 <img src="images-github/jason-github-small.jpg" width="200" />
@@ -41,12 +41,10 @@ See some of my images from my projects.
 
 You can contact me by email: [jasonmejiaoregon@gmail.com](jasonmejiaoregon@gmail.com) or skype.
 
-### Support or Contact
+### Contact
 
-Having trouble with Pages? 
+
 # References
 
 1. Jason.
-2. [Jason]
-3. Mejia, Jason.
-4. Mejia, Jason.
+2. Jason
