@@ -29,9 +29,8 @@ I also have office hours from after class at :
 ### Contact Information
 
 <img src="images-github/jason-github-small.jpg" width="100" />
-[jasonmejiaoregon@gmail.com](jasonmejiaoregon@gmail.com) or skype.
 
-### Contact
+[jasonmejiaoregon@gmail.com](jasonmejiaoregon@gmail.com) 
 
 ### References
 
