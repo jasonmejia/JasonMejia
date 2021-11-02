@@ -1,6 +1,7 @@
 # Introduction
  <figure>
 <img src="images-github/jason-github-small.jpg" width="100" />
+ 
 Hi I am Jason Mejia
 I was born in Brasil.
 I moved to USA years ago where I have been living since then.
