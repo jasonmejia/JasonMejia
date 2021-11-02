@@ -1,7 +1,7 @@
 # Introduction
-Hi I am Jason Mejia <figure>
+ <figure>
 <img src="images-github/jason-github-small.jpg" width="100" />
-<figcaption>Jason</figcaption> </figure>
+Hi I am Jason Mejia
 I was born in Brasil.
 I moved to USA years ago where I have been living since then.
 I am Spanish Science Instructor at High School. 
