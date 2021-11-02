@@ -23,7 +23,7 @@ I also have office hours from after class at :
 - Biology
 - English
 
-###Projects
+### Projects
 - Artificial Intelligence
 
 ### Contact Information
