@@ -29,7 +29,7 @@ I also have office hours from after class at :
 ### Contact Information
 
 <img src="images-github/jason-github-small.jpg" width="100" />
-You can contact me by email: [jasonmejiaoregon@gmail.com](jasonmejiaoregon@gmail.com) or skype.
+[jasonmejiaoregon@gmail.com](jasonmejiaoregon@gmail.com) or skype.
 
 ### Contact
 
