@@ -1,10 +1,15 @@
 # Introduction
+Hi I am Jason Mejia <figure>
+<img src="images-github/jason-github-small.jpg" width="100" />
+<figcaption>Jason</figcaption> </figure>
 I was born in Brasil.
 I moved to USA years ago where I have been living since then.
 I am Spanish Science Instructor at High School. 
 I have Bachelor of Science in Genetics from University California Davis
 After that I continued towards my Master in Science in Cell and Molecular Biology at San Francisco State 
 University.
+
+
 
 ## My research interests
 I am interested in how our ”self", our "persona" arises from living tissue. 
@@ -27,13 +32,6 @@ I also have office hours from after class at :
 - Artificial Intelligence
 
 
-
-## Images
-
-
-<figure>
-<img src="images-github/jason-github-small.jpg" width="200" />
-<figcaption>Jason</figcaption> </figure>
 
 
 
